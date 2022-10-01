@@ -1,0 +1,139 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size: 1em;
+	font-family: "trebuchet MS", Helvetica, sans-serif;
+	background:#e6e6e6;
+}
+
+h1{
+	font-size: 2.5em;
+}
+
+h2{
+	color: #E96E01;
+}
+
+
+h4{
+	background: white;
+	color: #E96E01;
+}
+
+#data{
+	font-size: 0.8em;
+	border-bottom: 1px solid #f4f4f4;
+	padding-bottom: 10px;
+	
+}
+
+.white{
+	color: white;
+}
+
+#cabeçalho{
+	background: #E96E01;
+	text-align: center;
+
+	
+}
+
+.tecblog{
+	color: #59422E;
+	padding: 10px;
+}
+
+.links{
+	padding: 10px;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:visited{
+	color: #59422E;
+}
+a:link{
+	color: #59422E;
+}
+
+a:hover{
+	background: white;
+	color: #59422E;
+	text-decoration: underline;
+}
+
+.links a:visited{
+	color: #59422E;
+}
+
+.links a:hover{
+	background: white;
+	color: #59422E;
+	text-decoration: none;
+}
+
+.links a:link{
+	padding: 8px 12px;
+	color: #59422E;
+}
+
+.links a:active{
+	background: white;
+	color: #59422E;
+}
+
+.post{
+	width: 920px;
+	margin: 0 auto;
+	padding: 15px;
+
+	}
+
+.post1{
+	position: relative; top: 20px;
+	background: white;
+	width: 660px;
+	float: left;
+	padding: 20px;
+	margin-bottom: 20px;
+	}
+
+.post2{
+	background: white;
+	width: 660px;
+	float: left;
+	padding: 20px;
+	margin-bottom: 20px;
+	}	
+
+.texto{
+	font-size: 0.9em;
+}
+
+.recente{
+	background: white;
+	width: 180px;
+	float: right;	
+	padding: 10px;
+	margin-bottom: 20px;
+}
+.recente1{
+	background: white;
+	width: 180px;
+	float: right;	
+	padding: 10px;
+	margin-bottom: 20px;
+}
+	
+.rodape{
+	clear: both;
+	text-align: center;
+	padding: 15px;
+	background: #e6e6e6;
+
+}
